@@ -1,0 +1,72 @@
+[22-Nov-2016 10:18:28 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/citridia/sinadme.citridia.com/sinadme/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[22-Nov-2016 12:26:31 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/generalController/ControllerSystem.php on line 60
+[24-Nov-2016 13:05:29 Asia/Jakarta] PHP Fatal error:  Call to undefined method DatadownloadModel::retrieveCustomer() in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/DatadownloadController.php on line 29
+[24-Nov-2016 13:05:42 Asia/Jakarta] PHP Fatal error:  Call to undefined method AuthenticationModel::retrieveEmail() in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/AuthenticationController.php on line 40
+[24-Nov-2016 13:06:13 Asia/Jakarta] PHP Fatal error:  Call to undefined method AuthenticationModel::retrieveEmail() in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/AuthenticationController.php on line 40
+[24-Nov-2016 13:07:55 Asia/Jakarta] PHP Fatal error:  Call to undefined method AuthenticationModel::retrieveEmail() in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/AuthenticationController.php on line 40
+[24-Nov-2016 13:08:21 Asia/Jakarta] PHP Fatal error:  Call to undefined method AuthenticationModel::retrieveEmail() in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/AuthenticationController.php on line 40
+[24-Nov-2016 13:09:49 Asia/Jakarta] PHP Fatal error:  Call to undefined method AuthenticationModel::retrieveEmail() in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/AuthenticationController.php on line 40
+[24-Nov-2016 18:10:43 Asia/Jakarta] PHP Fatal error:  Call to undefined method DatadownloadModel::retrieveItem() in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/DatadownloadController.php on line 104
+[24-Nov-2016 18:13:23 Asia/Jakarta] PHP Fatal error:  Call to undefined method DatadownloadModel::retrieveItem() in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/DatadownloadController.php on line 104
+[27-Nov-2016 02:14:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/DatadownloadController.php on line 143
+[27-Nov-2016 09:16:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=' in /home/citridia/sinadme.citridia.com/sinadme/application/models/DatadownloadModel.php on line 102
+[01-Dec-2016 15:40:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/citridia/sinadme.citridia.com/sinadme/application/models/DatauploadModel.php on line 39
+[01-Dec-2016 15:45:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/citridia/sinadme.citridia.com/sinadme/application/models/DatauploadModel.php on line 48
+[01-Dec-2016 10:23:35 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/DatauploadController.php on line 138
+[02-Dec-2016 00:33:19 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/DatauploadController.php on line 128
+[08-Dec-2016 07:46:11 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/EmoneyController.php on line 107
+[08-Dec-2016 14:48:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/citridia/sinadme.citridia.com/sinadme/application/models/EmoneyModel.php on line 63
+[08-Dec-2016 08:14:38 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/DatadownloadController.php on line 187
+[08-Dec-2016 08:14:57 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/DatadownloadController.php on line 187
+[08-Dec-2016 08:23:20 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/DatadownloadController.php on line 187
+[11-Dec-2016 09:34:40 UTC] PHP Fatal error:  Call to a member function model() on a non-object in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/NewEmoney.php on line 7
+[11-Dec-2016 09:35:21 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/NewEmoney.php on line 9
+[11-Dec-2016 16:42:21 Asia/Jakarta] PHP Fatal error:  Call to undefined method EmoneyModel::getEMoney() in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/NewEmoney.php on line 13
+[11-Dec-2016 17:01:41 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::fetch_array() in /home/citridia/sinadme.citridia.com/sinadme/application/models/AlkaafEmoney.php on line 22
+[11-Dec-2016 17:05:04 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/citridia/sinadme.citridia.com/sinadme/application/models/AlkaafEmoney.php on line 25
+[11-Dec-2016 17:28:44 Asia/Jakarta] PHP Fatal error:  Call to undefined function checkToken() in /home/citridia/sinadme.citridia.com/sinadme/application/models/AlkaafEmoney.php on line 21
+[11-Dec-2016 11:38:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/EmoneyController.php on line 44
+[11-Dec-2016 19:10:35 Asia/Jakarta] PHP Fatal error:  Call to undefined method EmoneyModel::setDetailPembayaran() in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/EmoneyController.php on line 63
+[18-Dec-2016 16:21:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home/citridia/sinadme.citridia.com/sinadme/application/models/DatatransaksiModel.php on line 34
+[22-Dec-2016 14:02:35 Asia/Jakarta] PHP Fatal error:  Cannot redeclare class EmoneyModel in /home/citridia/sinadme.citridia.com/sinadme/application/models/PengantaranModel.php on line 5
+[31-Dec-2016 21:43:41 Asia/Jakarta] PHP Fatal error:  Call to a member function buyDeposit() on a non-object in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/DepositController.php on line 37
+[31-Dec-2016 21:45:41 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::affected_row() in /home/citridia/sinadme.citridia.com/sinadme/application/models/DepositModel.php on line 47
+[01-Jan-2017 09:16:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=' in /home/citridia/sinadme.citridia.com/sinadme/application/models/SyncModel.php on line 15
+[01-Jan-2017 09:17:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '.=' (T_CONCAT_EQUAL) in /home/citridia/sinadme.citridia.com/sinadme/application/models/SyncModel.php on line 33
+[01-Jan-2017 09:17:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '.=' (T_CONCAT_EQUAL) in /home/citridia/sinadme.citridia.com/sinadme/application/models/SyncModel.php on line 33
+[01-Jan-2017 09:17:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=' in /home/citridia/sinadme.citridia.com/sinadme/application/models/SyncModel.php on line 33
+[01-Jan-2017 09:18:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$rb' (T_VARIABLE) in /home/citridia/sinadme.citridia.com/sinadme/application/models/SyncModel.php on line 36
+[01-Jan-2017 09:23:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/citridia/sinadme.citridia.com/sinadme/application/models/SyncModel.php on line 37
+[01-Jan-2017 09:24:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/citridia/sinadme.citridia.com/sinadme/application/models/SyncModel.php on line 38
+[01-Jan-2017 09:24:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/citridia/sinadme.citridia.com/sinadme/application/models/SyncModel.php on line 44
+[01-Jan-2017 09:25:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/citridia/sinadme.citridia.com/sinadme/application/models/ResultBuilder.php on line 33
+[01-Jan-2017 09:25:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/citridia/sinadme.citridia.com/sinadme/application/models/ResultBuilder.php on line 33
+[01-Jan-2017 02:38:28 UTC] PHP Fatal error:  Cannot redeclare SyncController::getParfum() in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/SyncController.php on line 41
+[01-Jan-2017 02:38:37 UTC] PHP Fatal error:  Cannot redeclare SyncController::getParfum() in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/SyncController.php on line 41
+[02-Jan-2017 09:32:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/citridia/sinadme.citridia.com/sinadme/application/models/KurirModel.php on line 29
+[02-Jan-2017 09:56:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home/citridia/sinadme.citridia.com/sinadme/application/models/KurirModel.php on line 32
+[05-Jan-2017 06:37:05 Asia/Jakarta] PHP Fatal error:  Function name must be a string in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/Welcome.php on line 27
+[05-Jan-2017 07:04:55 Asia/Jakarta] PHP Fatal error:  Call to a member function setBayarBeliDeposit() on a non-object in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/DepositController.php on line 60
+[07-Jan-2017 07:38:00 Asia/Jakarta] PHP Fatal error:  Call to undefined method KurirModel::getCompelteTransaction() in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/KurirController.php on line 52
+[07-Jan-2017 01:34:27 UTC] PHP Parse error:  syntax error, unexpected ',', expecting function (T_FUNCTION) in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/KurirController.php on line 56
+[18-Jan-2017 02:46:11 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting ')' in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/WorkshopController.php on line 58
+[18-Jan-2017 12:46:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$cond5' (T_VARIABLE) in /home/citridia/sinadme.citridia.com/sinadme/application/models/DatatransaksiModel.php on line 31
+[18-Jan-2017 12:46:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$cond5' (T_VARIABLE) in /home/citridia/sinadme.citridia.com/sinadme/application/models/DatatransaksiModel.php on line 31
+[18-Jan-2017 12:48:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$cond5' (T_VARIABLE) in /home/citridia/sinadme.citridia.com/sinadme/application/models/DatatransaksiModel.php on line 31
+[18-Jan-2017 12:49:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$cond5' (T_VARIABLE) in /home/citridia/sinadme.citridia.com/sinadme/application/models/DatatransaksiModel.php on line 31
+[19-Jan-2017 11:57:05 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting ')' in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/DepositController.php on line 78
+[19-Jan-2017 11:57:35 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting ')' in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/DepositController.php on line 78
+[20-Jan-2017 12:52:38 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting ')' in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/FirebaseController.php on line 19
+[20-Jan-2017 20:54:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/citridia/sinadme.citridia.com/sinadme/application/models/WorkshopModel.php on line 127
+[20-Jan-2017 21:18:01 Asia/Jakarta] PHP Fatal error:  Can't use method return value in write context in /home/citridia/sinadme.citridia.com/sinadme/application/models/WorkshopModel.php on line 98
+[20-Jan-2017 22:58:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/citridia/sinadme.citridia.com/sinadme/application/models/CustomerModel.php on line 36
+[20-Jan-2017 22:59:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/citridia/sinadme.citridia.com/sinadme/application/models/CustomerModel.php on line 36
+[20-Jan-2017 23:02:00 Asia/Jakarta] PHP Fatal error:  Cannot redeclare class WorkshopModel in /home/citridia/sinadme.citridia.com/sinadme/application/models/CustomerModel.php on line 66
+[23-Jan-2017 08:30:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'INT' (T_STRING) in /home/citridia/sinadme.citridia.com/sinadme/application/models/CustomerModel.php on line 38
+[23-Jan-2017 08:30:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'INTEGER' (T_STRING) in /home/citridia/sinadme.citridia.com/sinadme/application/models/CustomerModel.php on line 38
+[23-Jan-2017 08:32:26 Asia/Jakarta] PHP Fatal error:  Call to undefined function convert() in /home/citridia/sinadme.citridia.com/sinadme/application/models/CustomerModel.php on line 38
+[23-Jan-2017 19:49:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/citridia/sinadme.citridia.com/sinadme/application/models/CustomerModel.php on line 19
+[23-Jan-2017 22:23:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[' in /home/citridia/sinadme.citridia.com/sinadme/application/models/DepositModel.php on line 37
+[23-Jan-2017 22:25:20 Asia/Jakarta] PHP Fatal error:  Can't use method return value in write context in /home/citridia/sinadme.citridia.com/sinadme/application/models/DepositModel.php on line 41
+[23-Jan-2017 22:25:46 Asia/Jakarta] PHP Fatal error:  Can't use method return value in write context in /home/citridia/sinadme.citridia.com/sinadme/application/models/DepositModel.php on line 41
+[25-Jan-2017 07:22:22 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting ')' in /home/citridia/sinadme.citridia.com/sinadme/application/controllers/DatauploadController.php on line 67
